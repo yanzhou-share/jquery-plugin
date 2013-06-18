@@ -1,4 +1,6 @@
 (function($){
+    "use strict";
+    
     var DEMO = function(options){
       
     }
